@@ -1,0 +1,15 @@
+streamlit
+streamlit-lottie
+pandas
+numpy
+altair
+scikit-learn
+joblib
+textblob
+fpdf2
+matplotlib
+gspread
+oauth2client
+SpeechRecognition
+plotly
+wordcloud
