@@ -29,7 +29,7 @@ A **real-time Text Emotion & Sentiment Analyzer** built using Python, scikit-lea
 ## ⚡ Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Text-Emotion-Sentiment-Analyzer.git
+  https://github.com/verugadhwal-beep/Text-Emotion-Sentiment-Analyzer.git
 Navigate to the project folder:
 
 bash
